@@ -1,0 +1,98 @@
+[
+  {
+    "name": "Paris",
+    "lat": "48.85661",
+    "lng": "2.35222",
+    "country": "FR"
+  },
+  {
+    "name": "Budapest",
+    "lat": "47.49791",
+    "lng": "19.04023",
+    "country": "HU"
+  },
+  {
+    "name": "Skopje",
+    "lat": "41.99646",
+    "lng": "21.43141",
+    "country": "MK"
+  },
+  {
+    "name": "Rotterdam",
+    "lat": "51.9225",
+    "lng": "4.47917",
+    "country": "NL"
+  },
+  {
+    "name": "Valencia",
+    "lat": "39.46975",
+    "lng": "-0.37739",
+    "country": "ES"
+  },
+  {
+    "name": "Vancouver",
+    "lat": "49.28273",
+    "lng": "-123.12074",
+    "country": "CA"
+  },
+  {
+    "name": "Amsterdam",
+    "lat": "52.37403",
+    "lng": "4.88969",
+    "country": "NL"
+  },
+  {
+    "name": "Vienna",
+    "lat": "48.20849",
+    "lng": "16.37208",
+    "country": "AT"
+  },
+  {
+    "name": "Sydney",
+    "lat": "-33.86785",
+    "lng": "151.20732",
+    "country": "AU"
+  },
+  {
+    "name": "New York City",
+    "lat": "40.71278",
+    "lng": "-74.0060",
+    "country": "US"
+  },
+  {
+    "name": "London",
+    "lat": "51.50722",
+    "lng": "-0.12750",
+    "country": "GB"
+  },
+  {
+    "name": "Bangkok",
+    "lat": "13.75633",
+    "lng": "100.50177",
+    "country": "TH"
+  },
+  {
+    "name": "Hong Kong",
+    "lat": "22.39643",
+    "lng": "114.1095",
+    "country": "HK"
+  },
+  {
+    "name": "Dubai",
+    "lat": "25.27699",
+    "lng": "55.29625",
+    "country": "AE"
+  },
+  {
+    "name": "Rome",
+    "lat": "41.90278",
+    "lng": "12.49636",
+    "country": "IT"
+  },
+  {
+    "name": "Istanbul",
+    "lat": "41.00824",
+    "lng": "28.97836",
+    "country": "TR"
+  }
+]
