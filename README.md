@@ -1,6 +1,6 @@
 
 <p align="center">
-    <h1 align="center">Password-Validator-TDD</h1>
+    <h1 align="center">Search-Cities-TDD</h1>
 </p>
 
 ---
@@ -29,7 +29,7 @@ Search cities functionality implemented using TDD
 1. Clone the repository:
 
 ```sh
-git clone https://github.com/MarioBanovac/Password-Validator-TDD.git
+git clone https://github.com/MarioBanovac/Search-Cities-TDD.git
 ```
 
 2. Change to the project directory:
